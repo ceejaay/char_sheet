@@ -94,6 +94,7 @@ module Homepage::Views
       p "Int:#{conan.stats_array[3][0]}  Mod:#{conan.stats_array[3][1]}"
       p "Wis:#{conan.stats_array[4][0]}  Mod:#{conan.stats_array[4][1]}"
       p "Cha:#{conan.stats_array[5][0]}  Mod:#{conan.stats_array[5][1]} "
+
     end #end of the center block.
   
   end #end of the index method. 
