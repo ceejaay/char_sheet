@@ -4,7 +4,7 @@
 Camping.goes :Homepage
 
 module Homepage::Controllers
-  class Index < R '/'
+  class Index < R 'polar-refuge-2424.herokuapp.com'
 
     def get
       render :index
